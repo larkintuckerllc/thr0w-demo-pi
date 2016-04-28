@@ -1,0 +1,15 @@
+{
+  "name": "thr0w-pi-ir",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pi-gpio": "0.0.8",
+    "thr0w-api": "0.0.1"
+  }
+}
