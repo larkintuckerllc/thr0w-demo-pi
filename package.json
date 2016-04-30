@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pi-gpio": "0.0.8",
+    "rpio": "^0.9.11",
     "thr0w-api": "0.0.1"
   }
 }
